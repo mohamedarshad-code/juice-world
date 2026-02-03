@@ -54,9 +54,8 @@ I specialize in:
 ### Get in Touch:
 
 - **GitHub**: [mohamedarshad-code](https://github.com/mohamedarshad-code)
-- **Portfolio**: _Include your link here_
-- **Contact**: _Include your email/telegram here_
-
+- **Portfolio**: www.mohamedarshad.tech
+- **Contact**: mohamedarshad1507@gmail.com / +91 9952589394
 ---
 
 ## 🛠️ Installation & Usage
